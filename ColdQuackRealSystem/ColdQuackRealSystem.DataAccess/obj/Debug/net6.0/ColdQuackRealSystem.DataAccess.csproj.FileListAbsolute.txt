@@ -1,0 +1,17 @@
+C:\Users\pedro\source\repos\ColdQuackRealSystem.API\ColdQuackRealSystem.DataAccess\bin\Debug\net6.0\ColdQuackRealSystem.DataAccess.deps.json
+C:\Users\pedro\source\repos\ColdQuackRealSystem.API\ColdQuackRealSystem.DataAccess\bin\Debug\net6.0\ColdQuackRealSystem.DataAccess.dll
+C:\Users\pedro\source\repos\ColdQuackRealSystem.API\ColdQuackRealSystem.DataAccess\bin\Debug\net6.0\ColdQuackRealSystem.DataAccess.pdb
+C:\Users\pedro\source\repos\ColdQuackRealSystem.API\ColdQuackRealSystem.DataAccess\bin\Debug\net6.0\ColdQuackRealSystem.Domain.Entities.dll
+C:\Users\pedro\source\repos\ColdQuackRealSystem.API\ColdQuackRealSystem.DataAccess\bin\Debug\net6.0\ColdQuackRealSystem.Domain.Entities.pdb
+C:\Users\pedro\source\repos\ColdQuackRealSystem.API\ColdQuackRealSystem.DataAccess\obj\Debug\net6.0\ColdQuackRealSystem.DataAccess.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\ColdQuackRealSystem.API\ColdQuackRealSystem.DataAccess\obj\Debug\net6.0\ColdQuackRealSystem.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\ColdQuackRealSystem.API\ColdQuackRealSystem.DataAccess\obj\Debug\net6.0\ColdQuackRealSystem.DataAccess.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\ColdQuackRealSystem.API\ColdQuackRealSystem.DataAccess\obj\Debug\net6.0\ColdQuackRealSystem.DataAccess.AssemblyInfo.cs
+C:\Users\pedro\source\repos\ColdQuackRealSystem.API\ColdQuackRealSystem.DataAccess\obj\Debug\net6.0\ColdQuackRealSystem.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\ColdQuackRealSystem.API\ColdQuackRealSystem.DataAccess\obj\Debug\net6.0\ColdQuackRealSystem.DataAccess.csproj.CopyComplete
+C:\Users\pedro\source\repos\ColdQuackRealSystem.API\ColdQuackRealSystem.DataAccess\obj\Debug\net6.0\ColdQuackRealSystem.DataAccess.dll
+C:\Users\pedro\source\repos\ColdQuackRealSystem.API\ColdQuackRealSystem.DataAccess\obj\Debug\net6.0\refint\ColdQuackRealSystem.DataAccess.dll
+C:\Users\pedro\source\repos\ColdQuackRealSystem.API\ColdQuackRealSystem.DataAccess\obj\Debug\net6.0\ColdQuackRealSystem.DataAccess.pdb
+C:\Users\pedro\source\repos\ColdQuackRealSystem.API\ColdQuackRealSystem.DataAccess\obj\Debug\net6.0\ref\ColdQuackRealSystem.DataAccess.dll
+C:\Users\pedro\source\repos\ColdQuackRealSystem.API\ColdQuackRealSystem.DataAccess\bin\Debug\net6.0\ColdQuackRealSystem.DataAccess.runtimeconfig.json
+C:\Users\pedro\source\repos\ColdQuackRealSystem.API\ColdQuackRealSystem.DataAccess\obj\Debug\net6.0\ColdQuackRealSystem.DataAccess.genruntimeconfig.cache
